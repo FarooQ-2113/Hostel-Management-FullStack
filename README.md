@@ -1,4 +1,4 @@
-# Hostel Management Application
+#farooqahamed2113. Hostel Management Application
 
 Created using MERN Stack with Redux
 
