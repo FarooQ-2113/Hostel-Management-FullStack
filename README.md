@@ -3,10 +3,11 @@
 Created using MERN Stack with Redux
 
 ## Installation
-
+(To start)
 ```
 npm install
-cd frontend && npm install
+cd frontend
+npm install
 ```
 
 ### Configure .env file
